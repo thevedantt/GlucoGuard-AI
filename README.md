@@ -119,4 +119,3 @@ Always consult certified healthcare professionals for actual medical decisions.
 **Vedantt Talekar**  
 Open to feedback & collaborations!
 
-Let me know if you want a logo, deployment guide (Streamlit/Gradio), or want to host it online!
